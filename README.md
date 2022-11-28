@@ -5,3 +5,10 @@
 - [3blue1brown linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [이상엽 선형대수학](https://youtube.com/playlist?list=PL127T2Zu76FuVMq1UQnZv9SG-GFIdZfLg)
 ---
+### 논문 리뷰
+- [동빈나](https://www.youtube.com/@dongbinna)
+- [고려대학교 DSBA 연구실](https://www.youtube.com/@dsba2979)
+- [딥러닝 논문 읽기 모임](https://www.youtube.com/@user-ow3gm9zd1b)
+- [Naver D2](https://www.youtube.com/@naverd2848)
+---
+### 

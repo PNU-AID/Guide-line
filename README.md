@@ -13,7 +13,6 @@
 ---
 ### 파이썬 기초
 - [Python tutorial](https://www.youtube.com/watch?v=kWiCuklohdY)
-
-
-# 파이토치
+---
+### 파이토치
 - [Pytorch tutorial](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)

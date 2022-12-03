@@ -12,4 +12,4 @@
 - [Naver D2](https://www.youtube.com/@naverd2848)
 ---
 ### 참고자료
-- [밑바닥부터 시작하는 딥러닝1](https://fliphtml5.com/hkuy/riaq)
+- [Pytorch tutorial](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)

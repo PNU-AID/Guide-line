@@ -11,4 +11,5 @@
 - [딥러닝 논문 읽기 모임](https://www.youtube.com/@user-ow3gm9zd1b)
 - [Naver D2](https://www.youtube.com/@naverd2848)
 ---
-### 
+### 참고자료
+- [밑바닥부터 시작하는 딥러닝1](https://fliphtml5.com/hkuy/riaq)

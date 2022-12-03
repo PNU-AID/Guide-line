@@ -11,5 +11,9 @@
 - [딥러닝 논문 읽기 모임](https://www.youtube.com/@user-ow3gm9zd1b)
 - [Naver D2](https://www.youtube.com/@naverd2848)
 ---
-### 참고자료
+### 파이썬 기초
+- [Python tutorial](https://www.youtube.com/watch?v=kWiCuklohdY)
+
+
+# 파이토치
 - [Pytorch tutorial](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)

@@ -1,4 +1,13 @@
 # 가이드
+
+🚨 팀별 필수로 해야할 사항
+- Effective Python
+- 팀별 repo 생성 후 개인 블로그 README를 통해 공유
+- 데이콘 대회(연습대회도 상관없음)
+- 오프라인 발표한 것 정리해서 팀별 repo에 공유(자유 형식)
+- 매일 스크럼 진행(공부했던 내용 목표 달성도 혹은 오늘 공부할 내용 공유)
+- 질문은 가능한 슬랙 통해서 해주세요!
+
 ## Python
 - Effective Python   
 - Internal Cpython

@@ -1,23 +1,20 @@
 # 가이드
 ## Python
-Effective Python
-Internal Cpython
+- Effective Python   
+- Internal Cpython
 
 ## Kaggle   
-[Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data)
-
-[Tabular Playground Series - Jan 2022](https://www.kaggle.com/competitions/tabular-playground-series-jan-2022)
-
-[Aerial Cactus Identification](https://www.kaggle.com/competitions/aerial-cactus-identification/overview)
-
-[Tabular Playground Series - Mar 2022](https://www.kaggle.com/competitions/tabular-playground-series-mar-2022)
+- [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition/data)
+- [Tabular Playground Series - Jan 2022](https://www.kaggle.com/competitions/tabular-playground-series-jan-2022)
+- [Aerial Cactus Identification](https://www.kaggle.com/competitions/aerial-cactus-identification/overview)
+- [Tabular Playground Series - Mar 2022](https://www.kaggle.com/competitions/tabular-playground-series-mar-2022)
 
 ## Dacon
-[데이콘 Basic 중고차 가격 예측 경진대회](https://dacon.io/competitions/official/235901/overview/description)
+- [데이콘 Basic 중고차 가격 예측 경진대회](https://dacon.io/competitions/official/235901/overview/description)
 
 ## youtube
-[한경훈](https://www.youtube.com/@SlowAI)
-[Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition](https://youtu.be/vT1JzLTH4G4)
+- [한경훈](https://www.youtube.com/@SlowAI)
+- [Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition](https://youtu.be/vT1JzLTH4G4)
 
 ---
 # 참고자료

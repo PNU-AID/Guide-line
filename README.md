@@ -49,5 +49,5 @@
 - [딥러닝 파이토치 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289661077)
 ---
 ### 블로그 예시
-- [네이버 블로그 예시](https://blog.naver.com/bshlab671)
+- [네이버 블로그 예시](https://blog.naver.com/bshlab671)   
 블로그는 어떤걸 쓰셔도 

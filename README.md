@@ -14,7 +14,11 @@
 
 ---
 
-## 참고자료
+# 참고자료
+
+아래 내용을 보고 어떤 걸 공부해야할지 정해보세요
+
+[머신러닝 입문 repo](https://github.com/teddylee777/machine-learning)
 
 
 

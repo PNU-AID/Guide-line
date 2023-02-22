@@ -18,6 +18,7 @@
 AI가 처음이라면
 - [핸즈온 머신러닝](http://www.yes24.com/Product/Goods/89959711)
 - [Do it! 정직하게 코딩하며 배우는 딥러닝 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=208316126)
+- [practical deep leargning](https://course.fast.ai/)
 
 프로그래밍이 처음이라면
 - [Python 입문](https://nadocoding.tistory.com/108)

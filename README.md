@@ -36,7 +36,8 @@
 
 
 ## 머신러닝
-- [Stanford CS229: Machine Learning Full Course taught by Andrew Ng ](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Machine Learning](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) 
+- [Stanford CS229: Machine Learning Full Course taught by Andrew Ng](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [핸즈온 머신러닝](http://www.yes24.com/Product/Goods/89959711)
 
 
@@ -68,11 +69,10 @@
 
 [머신러닝 입문 repo](https://github.com/teddylee777/machine-learning)
 
-Youtube
+### Youtube
 - [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e/featured)
 - [고려대학교 산업경영공학부 DSBA 연구실](https://www.youtube.com/@dsba2979)
 - [freecodecamp](https://www.youtube.com/@freecodecamp)
-- []
 
 
 

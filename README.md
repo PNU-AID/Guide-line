@@ -46,6 +46,13 @@
 - [Do it! 정직하게 코딩하며 배우는 딥러닝 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=208316126)
 - [Stanford CS230: Deep Learning | Autumn 2018](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [Stanford University CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- [혁펜하임의 “꽂히는” 딥러닝 (Deep Learning)](https://youtube.com/playlist?list=PL_iJu012NOxdDZEygsVG4jS8srnSdIgdn)
+
+**컴퓨터 비전**
+- 밑바닥부터 시작하는 딥러닝 1권
+
+**자연어 처리**
+- 밑바닥부터 시작하는 딥러닝 2
 
 **강화학습**
 - [혁펜하임의 “트이는” 강화 학습 (Reinforcement learning)](https://youtube.com/playlist?list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g) 

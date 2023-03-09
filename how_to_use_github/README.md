@@ -21,7 +21,6 @@ GitHub 사용법
 * $ git remote rm origin
 * 두 저장소의 연결이 완료되었다면 원격 저장소의 기본 branch 이름을 main으로 바꿔줘야 합니다.
 * 만약 원격 저장소에 README.md 파일이 있다면 로컬 저장소로 해당 파일을 가져옵니다.(pull)
-* $ git pull origin main
 #### 3. 로컬 저장소의 파일 원격 저장소에 올리기.
 ##### 코드 요약
 * $ git add .

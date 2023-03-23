@@ -63,3 +63,20 @@ git add 파일/디렉토리
 <img width="960" alt="8" src="https://user-images.githubusercontent.com/95275655/224067764-f0aea5d0-4c07-4f2b-807e-90f34380489f.png">
 <img width="960" alt="9" src="https://user-images.githubusercontent.com/95275655/224067767-455d19d7-ab11-466a-962b-85844e82c9ba.png">
 </p>
+
+# Fork & Pull Request
+## Fork
+다른 사람이 만든 저장소의 코드를 내가 수정해서 내 repository에 올리고 싶을 때 사용하는 기능입니다.
+여러 저장소를 만들고 브랜치를 만들어 사용한다는 점에서 의의가 있습니다. 원본 저장소에는 영향을 미치지 않기 때문에 자유롭게 수정할 수 있습니다.
+### Fork 하는 방법
+원본 repository(앞으로는 upstream이라고 하겠음)에서 fork를 누르고 원하는 본인 프로필을 클릭합니다.
+fork한 repository의 code를 복사합니다.
+repository를 저장할 폴더를 만들고 마우스 우클릭 해 git bash를 열어 다음 명령어를 입력합니다.
+```sh
+git clone 복사한 코드
+```
+## Pull Request
+원본 저장소의 권한을 가진 사람에게 두 브랜치를 합치는 것(수정하는 것)을 허락해 달라고 요청 보내는 것을 말합니다.
+PR 요청을 사용하면 깃허브의 저장소 안에 있는 브랜치에 푸쉬한 변경사항을 다른 사람에게 알릴 수 있습니다. PR을 통해 팀원과 변경사항을 논의하고 검토할 수 있으며, 변경 사항이 기본 브랜치에 병합되기 전에 후속 커밋을 추가할 수 있습니다.
+### Pull Request 하는 방법
+repository 접속 후 contribute 클릭 -> open pull request 클릭 -> 어떤 브랜치가 어디로 전달될 것인지 결정 가능 -> 메세지 같이 보낼 수 있음 -> 권한자가 PR을 확인하고 merge pull request를 눌러 합칠 수도 있고, PR을 취소할 수도 있음.

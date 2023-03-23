@@ -75,8 +75,17 @@ repository를 저장할 폴더를 만들고 마우스 우클릭 해 git bash를 
 ```sh
 git clone 복사한 코드
 ```
+<img width="960" alt="1(수정)" src="https://user-images.githubusercontent.com/95275655/227123738-145bb62a-881f-41e5-be72-fd55e1af289c.png">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/95275655/227123790-c88a38a4-1a8b-4d96-b8fd-654da1f2e2ef.png">
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/95275655/227123784-7d3c6ecf-272e-4921-960f-59d198f53279.png">
+<img width="260" alt="4" src="https://user-images.githubusercontent.com/95275655/227123789-c3cbf38a-924f-4607-99c5-92480e829d05.png">
+
 ## Pull Request
 원본 저장소의 권한을 가진 사람에게 두 브랜치를 합치는 것(수정하는 것)을 허락해 달라고 요청 보내는 것을 말합니다.
 PR 요청을 사용하면 깃허브의 저장소 안에 있는 브랜치에 푸쉬한 변경사항을 다른 사람에게 알릴 수 있습니다. PR을 통해 팀원과 변경사항을 논의하고 검토할 수 있으며, 변경 사항이 기본 브랜치에 병합되기 전에 후속 커밋을 추가할 수 있습니다.
 ### Pull Request 하는 방법
-repository 접속 후 contribute 클릭 -> open pull request 클릭 -> 어떤 브랜치가 어디로 전달될 것인지 결정 가능 -> 메세지 같이 보낼 수 있음 -> 권한자가 PR을 확인하고 merge pull request를 눌러 합칠 수도 있고, PR을 취소할 수도 있음.
+repository 접속 후 pull request 클릭 -> new pull request 클릭 -> 어떤 브랜치가 어디로 전달될 것인지 결정 가능 -> 메세지 같이 보낼 수 있음 -> 권한자가 PR을 확인하고 merge pull request를 눌러 합칠 수도 있고, Pull Request을 취소할 수도 있음.
+
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/95275655/227123867-b06503b9-ff79-4dfc-8012-9251759f78ea.png">
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/95275655/227123877-77661b6a-be1f-4914-9f07-89d688a1eaad.png">
+오른쪽 브랜치가 왼쪽 브랜치로 전달될 것이라는 표시. 이때 오른쪽 브랜치와 왼쪽 브랜치 각각을 설정할 수 있다. 두 브랜치 설정 후 create pull request를 클릭한다.

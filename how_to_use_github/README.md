@@ -69,7 +69,7 @@ git add 파일/디렉토리
 다른 사람이 만든 저장소의 코드를 내가 수정해서 내 repository에 올리고 싶을 때 사용하는 기능입니다.
 여러 저장소를 만들고 브랜치를 만들어 사용한다는 점에서 의의가 있습니다. 원본 저장소에는 영향을 미치지 않기 때문에 자유롭게 수정할 수 있습니다.
 ### Fork 하는 방법
-원본 repository에서 fork를 누르고 원하는 본인 프로필을 클릭합니다.
+원본 repository에서 fork를 누르고 create fork를 클릭합니다.
 fork한 repository의 code를 복사합니다.
 repository를 저장할 폴더를 만들고 마우스 우클릭 해 git bash를 열어 다음 명령어를 입력합니다.
 ```sh

@@ -5,8 +5,12 @@
 - 최소 일주일 한번 오프라인(또는 온라인) 회의 할 것
 
 ---
-딥러닝 로드맵입니다. 뭘해야할지 모르겠다면 참고해보세요!   
-[AI roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+# 진행중인 스터디 및 프로젝트
+
+| 스터디 및 프로젝트 명 | 인원 | link |
+|:---:|:---:|:---:|
+|CS231n|강준우, 이가현, 김상민|[Notion link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
+|동아리 웹페이지|박시형, 김정민, 이서연, 정지민|[Github Link](https://github.com/sihyeong671/AID_WEB)|
 
 ---
 
@@ -15,6 +19,7 @@
 아래 내용을 보고 어떤 걸 더 공부해야할지 정해보세요
 
 [머신러닝 입문 repo](https://github.com/teddylee777/machine-learning)
+[AI roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 
 ### Youtube
 - [공돌이의 수학정리노트](https://www.youtube.com/@AngeloYeo)

@@ -23,7 +23,7 @@
 
 [머신러닝 입문 repo](https://github.com/teddylee777/machine-learning)   
 [AI roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-
+[Data Science](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
 ### Youtube
 - [공돌이의 수학정리노트](https://www.youtube.com/@AngeloYeo)
 - [3blue1brown](https://www.youtube.com/@3blue1brown)

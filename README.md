@@ -11,6 +11,9 @@
 |:---:|:---:|:---:|
 |CS231n|강준우, 이가현, 김상민|[Notion link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
 |동아리 웹페이지|박시형, 김정민, 이서연, 정지민|[Github Link](https://github.com/sihyeong671/AID_WEB)|
+|building_area_segmentation|박시형, 김태연||
+|k-ium 의료인공지능경진대회|박시형, 홍진욱, 손봉국||
+
 
 ---
 

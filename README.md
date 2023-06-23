@@ -11,6 +11,9 @@
 |:---:|:---:|:---:|
 |CS231n|강준우, 이가현, 김상민|[Notion link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
 |동아리 웹페이지|박시형, 김정민, 이서연, 정지민|[Github Link](https://github.com/sihyeong671/AID_WEB)|
+|딥러닝 기초부터 자연어 처리 챗봇까지|손봉국, 강혁, 박성준, 이가현, 송민정||
+|혼자 공부하는 머신러닝+딥러닝 스터디|백진규, 차지원||
+|밑바닥부터 시작하는 딥러닝 1권|김세이, 김동건, 최시원, 성지원, 안준영||
 |building_area_segmentation|박시형, 김태연||
 |k-ium 의료인공지능경진대회|박시형, 홍진욱, 손봉국||
 

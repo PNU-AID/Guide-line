@@ -49,7 +49,10 @@ result = dacon_submit_api.post_submission_file(
 다음과 같은 코드를 이용하여 API를 통해 제출할 수 있다.
 
 ### 직접 제출하기
+
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/92353013/182984718-8da952d3-d74c-45b6-a16c-ae6709eb11a2.png">
 위에서 다양한 분석을 마친 후, 
+
 1. 먼저 대회 페이지에서 제출 탭의 버튼을 누르면 파일 업로드 화면으로 전환된다.
 
 2. 전환된 화면에서 서류모양 아이콘을 클릭하여 제출할 파일을 선택하거나 파일을 마우스로 끌어와 서류모양 아이콘 위에 Drag-Drop 하면 파일을 업로드 할 수 있다.

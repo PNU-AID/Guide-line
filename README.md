@@ -16,7 +16,8 @@
 |오디오 DSP 스터디|강감찬, 최시원, 이가현|[Github Link](https://github.com/PNU-AID/audio-DSP-study)|
 |핸즈온 머신러닝|윤예진, 임영훈, 송민정||
 |building_area_segmentation 대회|박시형, 김태연||
-|k-ium 의료인공지능경진대회|박시형, 홍진욱, 손봉국||
+|~~k-ium 의료인공지능경진대회~~|박시형, 홍진욱, 손봉국|[Github Link](https://github.com/sihyeong671/k-ium-medical-AI-competition)|
+|혼자 공부하는 머신러닝+딥러닝 스터디|김민재, 심영찬, 송민정||
 
 
 ---

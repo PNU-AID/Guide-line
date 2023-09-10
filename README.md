@@ -1,22 +1,11 @@
 # 가이드
 
-🚨 스터디 혹은 프로젝트 필수사항
-- 스터디에서 공부한 내용 블로그, 깃허브, 노션 등으로 기록하고 공유할 것
-- 최소 일주일 한번 오프라인(또는 온라인) 회의 할 것
-
 ---
-# 진행중인 스터디 및 프로젝트
 
-| 스터디 및 프로젝트 명 | 인원 | link |
-|:---:|:---:|:---:|
-|CS231n|강준우, 이가현, 김상민|[Notion link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
-|동아리 웹페이지|박시형, 김정민, 이서연, 정지민|[Github Link](https://github.com/sihyeong671/AID_WEB)|
-|딥러닝 기초부터 자연어 처리 챗봇까지|손봉국, 박성준, 이가현, 송민정|[GitHub](https://github.com/zespy5/AID-natrual-language-process)|
-|혼자 공부하는 머신러닝+딥러닝 스터디|백진규, 차지원||
-|오디오 DSP 스터디|강감찬, 최시원, 이가현|[Github Link](https://github.com/PNU-AID/audio-DSP-study)|
-|핸즈온 머신러닝|윤예진, 송민정||
-|혼자 공부하는 머신러닝+딥러닝 스터디|김민재, 심영찬, 송민정||
-
+- [**질문 하는 방법**](./how_to_ask_question/README.md)
+- [**dacon 사용 가이드**](./how_to_use_dacon/README.md)
+- [**github 사용 가이드**](./how_to_use_github/README.md)
+- [**스터디 가이드**](./study_guide/README.md)
 
 ---
 

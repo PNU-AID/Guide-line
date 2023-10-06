@@ -37,8 +37,9 @@ _취소선 그어진 스터디는 완료된 스터디 입니다_
 |혼자 공부하는 머신러닝 딥러닝 5||
 |혼자 공부하는 머신러닝 딥러닝 6||
 |혼자 공부하는 머신러닝 딥러닝 7||
-|CS231n|[Notion Link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
+|~~CS231n~~|[Notion Link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
 
 ## 경진대회
 |대회 명|링크|
+|:---:|:---:|
 |우주 전파 재난 예측||

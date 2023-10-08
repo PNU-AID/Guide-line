@@ -31,7 +31,7 @@ _취소선 그어진 스터디는 완료된 스터디 입니다_
 |추천 시스템 스터디||
 |python advanced study|[Github Link](https://github.com/PNU-AID/Python-advanced)|
 |혼자 공부하는 머신러닝 딥러닝 1|[Github Link](https://github.com/PNU-AID/team-1)|
-|혼자 공부하는 머신러닝 딥러닝 2|[Notion Link](https://inky-millennium-8f8.notion.site/8f6917d4aead458fac3e151672cba89a?pvs=4)|
+|혼자 공부하는 머신러닝 딥러닝 2|[Notion Link](https://inky-millennium-8f8.notion.site/7c04fea4a93a41b08441080376492565?v=c526f496efd74912b2b3a30e7143dc00&pvs=4)|
 |혼자 공부하는 머신러닝 딥러닝 3||
 |혼자 공부하는 머신러닝 딥러닝 4||
 |혼자 공부하는 머신러닝 딥러닝 5||

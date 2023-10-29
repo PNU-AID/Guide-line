@@ -30,13 +30,13 @@ _취소선 그어진 스터디는 완료된 스터디 입니다_
 |논문 스터디|[Notion Link](https://industrious-offer-16d.notion.site/26d91c5090c746699ba4423dbc70e81c?pvs=4)|
 |추천 시스템 스터디|[Notion Link](https://aware-oyster-236.notion.site/085adc39d6904288a259a1f659716e5a)|
 |python advanced study|[Github Link](https://github.com/PNU-AID/Python-advanced)|
-|혼자 공부하는 머신러닝 딥러닝 1|[Github Link](https://github.com/PNU-AID/team-1)[Notion Link](https://www.notion.so/AID-Team-1-d00570440b554096bf9f429d77b7857f?pvs=4)|
+|혼자 공부하는 머신러닝 딥러닝 1|[Github Link](https://github.com/PNU-AID/team-1), [Notion Link](https://www.notion.so/AID-Team-1-d00570440b554096bf9f429d77b7857f?pvs=4)|
 |혼자 공부하는 머신러닝 딥러닝 2|[Notion Link](https://inky-millennium-8f8.notion.site/7c04fea4a93a41b08441080376492565?v=c526f496efd74912b2b3a30e7143dc00&pvs=4)|
 |혼자 공부하는 머신러닝 딥러닝 3||
 |혼자 공부하는 머신러닝 딥러닝 4|[Github Link](https://github.com/PNU-AID/Team-4)|
 |혼자 공부하는 머신러닝 딥러닝 5||
 |혼자 공부하는 머신러닝 딥러닝 6||
-|혼자 공부하는 머신러닝 딥러닝 7|[Github Link](https://github.com/PNU-AID/team-7)[Notion Link](https://www.notion.so/6-94f4e6ceb85341f78da90cfd8bc6d009)|
+|혼자 공부하는 머신러닝 딥러닝 7|[Github Link](https://github.com/PNU-AID/team-7), [Notion Link](https://www.notion.so/6-94f4e6ceb85341f78da90cfd8bc6d009)|
 |~~CS231n~~|[Notion Link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
 
 ## 경진대회

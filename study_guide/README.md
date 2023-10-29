@@ -23,7 +23,7 @@ _취소선 그어진 스터디는 완료된 스터디 입니다_
 |aid_web|[Frontend](https://github.com/PNU-AID/AID_WEB_frontend), [Backend](https://github.com/PNU-AID/AID_WEB_backend)|
 |pytorch 입문||
 |시계열 스터디||
-|자연어 처리 기초부터 챗봇까지||
+|자연어 처리 기초부터 챗봇까지|[Github Link](https://github.com/zespy5/AID-natrual-language-process)|
 |audio dsp 스터디|[Notion Link](https://evening-sandalwood-460.notion.site/75d9340f63e74a049471f04341066df8?pvs=4)|
 |혼자 공부하는 딥러닝||
 |밑바닥부터시작하는 딥러닝||

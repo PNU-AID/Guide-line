@@ -37,7 +37,7 @@ _취소선 그어진 스터디는 완료된 스터디 입니다_
 |혼자 공부하는 머신러닝 딥러닝 4|[Github Link](https://github.com/PNU-AID/Team-4)|
 |혼자 공부하는 머신러닝 딥러닝 5||
 |혼자 공부하는 머신러닝 딥러닝 6|[Notion Link](https://www.notion.so/invite/38d93b12e6b8c6c26e175b163c3b76fc62c8a17b)|
-|혼자 공부하는 머신러닝 딥러닝 7|[Github Link](https://github.com/PNU-AID/team-7), [Notion Link](https://www.notion.so/6-94f4e6ceb85341f78da90cfd8bc6d009)|
+|혼자 공부하는 머신러닝 딥러닝 7|[Github Link](https://github.com/PNU-AID/team-7)|
 |~~CS231n~~|[Notion Link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|
 |강화학습 스터디||
 |1일 1백준||

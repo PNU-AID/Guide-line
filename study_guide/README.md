@@ -36,6 +36,8 @@ _취소선 그어진 스터디는 완료된 스터디 입니다_
 |혼자 공부하는 머신러닝 딥러닝 6|[Notion Link](https://honey-silverfish-75d.notion.site/6-94f4e6ceb85341f78da90cfd8bc6d009?pvs=4)|
 |혼자 공부하는 머신러닝 딥러닝 7|[Github Link](https://github.com/PNU-AID/team-7)|
 |강화학습 스터디||
+## 완료된 스터디
+|완료된 스터디|링크|
 |~~혼자 공부하는 딥러닝~~||
 |~~audio dsp 스터디~~|[Notion Link](https://evening-sandalwood-460.notion.site/75d9340f63e74a049471f04341066df8?pvs=4)|
 |~~CS231n~~|[Notion Link](https://zenith-knife-1f9.notion.site/2daa4b2f24e848de93f4c6860473a38e?v=3cd052734e934c65aff30bd236a2c86b&pvs=4)|

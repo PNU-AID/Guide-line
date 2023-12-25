@@ -33,7 +33,7 @@ _모집글은 디스코드 스터디 모집글 채널에 올려주시면 됩니�
 |혼자 공부하는 머신러닝 딥러닝 5||
 |혼자 공부하는 머신러닝 딥러닝 6|[Notion Link](https://honey-silverfish-75d.notion.site/6-94f4e6ceb85341f78da90cfd8bc6d009?pvs=4)|
 |혼자 공부하는 머신러닝 딥러닝 7|[Github Link](https://github.com/PNU-AID/team-7)|
-|강화학습 스터디||
+|강화학습 스터디|[Notion Link](https://famous-war-7b1.notion.site/b97ea5ced86543d88126668536eb7d06?v=5e6aa4b59e7b47ecaea5a1390bb62089&pvs=4)|
 
 ## 완료된 스터디
 |완료된 스터디|링크|

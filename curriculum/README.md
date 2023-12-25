@@ -11,7 +11,7 @@ CURRICULUM
 |수학 기초|[혁펜하임](https://www.youtube.com/@hyukppen)|
 |대회 코드, EDA|[House price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview),[Titanic](https://www.kaggle.com/competitions/titanic)|
 
-#NLP
+# NLP
 |내용|링크|
 |:---:|:---:|
 |이론|[딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)|

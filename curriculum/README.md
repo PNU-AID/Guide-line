@@ -25,6 +25,12 @@ Kaggle
 - [House price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 - [Titanic](https://www.kaggle.com/competitions/titanic)
 
+## Advanced
+for undergraduate researcher
+- [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
+- [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
 
 ## Computer Vision
 - [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&si=lDQgDHXiUWrIwh6D)

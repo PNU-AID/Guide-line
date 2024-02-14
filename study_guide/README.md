@@ -6,20 +6,49 @@ _모집글은 디스코드 스터디 모집글 채널에 올려주시면 됩니�
 > **@everybody**
 > **스터디 내용 : 파이썬 스터디**<br/>
 > **모집 인원 : 4명**<br/>
-> **모집 대상 : 매일 1시간 이상 개인 공부가능하신분, 파이썬으로 프로그래밍 개발 경험**<br/>
+> **모집 일정 : ~ 24.3.11**<br/>
+> **모집 대상 : 매일 1시간 이상 스터디에 시간 투자 가능하신분, 파이썬으로 프로그래밍 개발 경험**<br/>
 > (아래 항목은 선택사항)<br/>
 > **공부 내용 : 파이썬 코드 최적화 및 프로파일링**<br/>
+> **참고 블로그 : ...**<br/>
+> **참고 도서 : ...**<br/>
 
 ## 🚨 스터디 / 프로젝트 필수사항
 
-- 양산 캠퍼스, 휴학생, 방학인 경우를 제외하고는 반드시 대면으로 진행
+- 양산 캠퍼스 학생, 휴학생, 방학인 경우를 제외하고는 반드시 대면으로 진행
 - 신입 부원인 경우 한 학기 이상 스터디 / 프로젝트 / 대회 참여할 것
 - 스터디 / 프로젝트 기간은 새로운 스터디나 프로젝트를 위해 마감을 학기 끝 혹은 방학 끝으로 맞출것(대회는 예외)
 - 스터디에서 공부한 내용을 아래와 같이 공유해주세요
-  - 스터디 팀 레포를 만들고 공부한 내용을 개인 블로그에 작성 후 깃허브 레포에 링크 공유
-  -  깃허브 위키에 작성
-  -  노션을 만들어 웹 링크로 공유
+  - 스터디 팀 레포를 만들고 공부한 내용을 개인 블로그에 작성 후 깃허브 레포에 링크 공유(추천)
+  - 노션을 만들어 웹 링크로 공유
+  - 깃허브 레포를 만들고 깃허브 위키에 작성
 -  스터디 팀장을 정해 운영진에게 전달 바람
+
+### 주의 사항
+1. 디스코드의 음성채널은 공개로 해놓고 언제든지 사용가능하며 비대면 진행일 경우 누구든 청강 가능합니다.
+2. 디스코드의 스터디/프로젝트/대회 채널은 비공개로 만들어지며 종료시 학기 혹은 방학 끝날 때 삭제됩니다.
+3. 스터디 최대 인원은 5명입니다.
+4. 스터디 및 프로젝트는 빡세게 하면 전공 수업 2개 듣는것과 비슷합니다. 너무 많은 스터디 생성 및 참가는 지양합니다.
 
 ## 이전 스터디
 - **[2023](./2023/README.md)**
+
+---
+# 참고자료
+
+아래 내용을 보고 어떤 걸 더 공부해야할지 정해보세요
+
+[머신러닝 입문 repo](https://github.com/teddylee777/machine-learning)   
+[AI roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)   
+[Data Science](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
+### Youtube
+- [공돌이의 수학정리노트](https://www.youtube.com/@AngeloYeo)
+- [3blue1brown](https://www.youtube.com/@3blue1brown)
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+- [Stanford University School of Engineering](https://www.youtube.com/@stanfordengineering)
+
+- [freecodecamp](https://www.youtube.com/@freecodecamp)
+
+- [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e/featured)
+- [고려대학교 산업경영공학부 DSBA 연구실](https://www.youtube.com/@dsba2979)
+- [혁펜하임](https://www.youtube.com/@hyukppen)

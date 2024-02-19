@@ -1,12 +1,11 @@
-# 가이드
+# Announcement
 
+**please read below guidlines**
 ---
 
-- [**질문 하는 방법**](./how_to_ask_question/README.md)
-- [**dacon 사용 가이드**](./how_to_use_dacon/README.md)
-- [**github 사용 가이드**](./how_to_use_github/README.md)
-- [**스터디 가이드**](./study_guide/README.md)
-- [**커리큘럼**](./curriculum/README.md)
+- [**How To Ask Question**](./how_to_ask_question/README.md)
+- [**Study Guideline**](./study_guide/README.md)
+- [**Curriculum**](./curriculum/README.md)
 
 ---
 

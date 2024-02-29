@@ -1,15 +1,16 @@
 # CURRICULUM
 
-
 ![img](./img/AID커리큘럼.png)
 
 ---
 
-## 추가로 보면 좋은 자료
+## Basic
 
 **선형대수학**
 - [3blue1brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [혁펜하임](https://www.youtube.com/watch?v=7vV2SF8DyQE&list=PL_iJu012NOxdZDxoGsYidMf2_bERIQaP0)
+
+**확률 / 통계**
 
 **미적분**
 - [3blue1brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -25,6 +26,8 @@
 - [House price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 - [Titanic](https://www.kaggle.com/competitions/titanic)
 
+**Dacon**
+
 ---
 
 ## Advanced
@@ -32,6 +35,7 @@
 - [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
 - [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
+- [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ---
 
@@ -39,8 +43,10 @@
 - [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&si=lDQgDHXiUWrIwh6D)
 
 ### Natural Language Process
+- [HuggingFace Transformer](https://huggingface.co/learn/nlp-course/ko/chapter0/1?fw=pt)
 - [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 - [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/52415)
+- [CS224n - DSBA 리뷰](https://www.youtube.com/playlist?list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ)
 
 
 ### RecSYS

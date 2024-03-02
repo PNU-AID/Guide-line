@@ -56,3 +56,37 @@
 ### Timeseires
 
 
+---
+
+## 참고자료
+
+아래 내용을 보고 어떤 걸 더 공부해야할지 정해보세요
+
+[머신러닝 입문 repo](https://github.com/teddylee777/machine-learning)<br/>
+[AI roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)<br/>
+[Data Science](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)<br/>
+
+### Youtube
+학습에 도움되는 유튜브 채널들 입니다.
+- [3blue1brown](https://www.youtube.com/@3blue1brown)
+- [공돌이의 수학정리노트](https://www.youtube.com/@AngeloYeo)
+- [고려대학교 산업경영공학부 DSBA 연구실](https://www.youtube.com/@dsba2979)
+- [Stanford University School of Engineering](https://www.youtube.com/@stanfordengineering)
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+- [freecodecamp](https://www.youtube.com/@freecodecamp)
+- [모두의 AI](https://www.youtube.com/@AI-km1yn)
+- [모두의 연구소](https://www.youtube.com/@modulabs_)
+- [임커밋](https://www.youtube.com/@ImcommIT)
+- [딥러닝논문읽기모임](https://www.youtube.com/@user-ow3gm9zd1b)
+- [TechWithTim](https://www.youtube.com/@TechWithTim)
+- [혁펜하임](https://www.youtube.com/@hyukppen)
+- [NaverD2](https://www.youtube.com/@naver_d2)
+- [메타코드M](https://www.youtube.com/@mcodeM)
+- [조코딩](https://www.youtube.com/@jocoding)
+- [거꾸로 읽는 AI 이야기](https://www.youtube.com/@gokkulearn)
+- [코드없는 프로그래밍](https://www.youtube.com/@user-pw9fm4gc7e)
+- [동빈나](https://www.youtube.com/@dongbinna)
+- [나도코딩](https://www.youtube.com/@nadocoding)
+- [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+- [ExplainingAI](https://www.youtube.com/@Explaining-AI)
+- [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e/featured)

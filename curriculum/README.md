@@ -43,7 +43,7 @@
 - [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&si=lDQgDHXiUWrIwh6D)
 
 ### Natural Language Process
-- [HuggingFace Transformer](https://huggingface.co/learn/nlp-course/ko/chapter0/1?fw=pt)
+- [HuggingFace Transformer](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 - [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 - [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/52415)
 - [CS224n - DSBA 리뷰](https://www.youtube.com/playlist?list=PLetSlH8YjIfVk0G_lQfVCCOJ4M_iMZCJQ)

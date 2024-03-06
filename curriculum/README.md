@@ -32,6 +32,7 @@
 
 ## Advanced
 - [Deep dive to DL](https://d2l.ai/index.html)
+- [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)  
 - [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
 - [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)

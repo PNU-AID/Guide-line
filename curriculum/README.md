@@ -59,6 +59,10 @@
 
 ---
 
+## Paper Implementation
+https://nn.labml.ai/
+
+
 ## 참고자료
 
 아래 내용을 보고 어떤 걸 더 공부해야할지 정해보세요

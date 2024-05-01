@@ -1,16 +1,23 @@
 # CURRICULUM
 
-![img](./img/AID커리큘럼.png)
+**Step 1**
+- [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
+- [Deep dive to DL](https://d2l.ai/index.html)
+
+**Step 2**
+
 
 ---
 
-## Basic
+## Ref
 
 **선형대수학**
 - [3blue1brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [혁펜하임](https://www.youtube.com/watch?v=7vV2SF8DyQE&list=PL_iJu012NOxdZDxoGsYidMf2_bERIQaP0)
 
 **확률 / 통계**
+- [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
 
 **미적분**
 - [3blue1brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -22,21 +29,9 @@
 **PyTorch 기초**
 - [이수안 컴퓨터 연구소](https://www.youtube.com/watch?v=k60oT_8lyFw)
 
-**Kaggle**
-- [House price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
-- [Titanic](https://www.kaggle.com/competitions/titanic)
-
-**Dacon**
-
----
-
-## Advanced
-- [Deep dive to DL](https://d2l.ai/index.html)
-- [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)  
+**Advanced**
 - [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
-- [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
-- [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ---
 
@@ -53,6 +48,7 @@
 ### RecSYS
 
 ### RL
+- [HuggingFace RL tutorial](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 
 ### Timeseires
 

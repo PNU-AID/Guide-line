@@ -5,11 +5,11 @@
 - [Deep dive to DL](https://d2l.ai/index.html)
 
 **Step 2**
-
+https://www.boostcourse.org/opencourse
 
 ---
 
-## Ref
+## Ref
 
 **선형대수학**
 - [3blue1brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)

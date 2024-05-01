@@ -1,11 +1,16 @@
 # CURRICULUM
 
+**Step 0**
+- Python
+
 **Step 1**
+셋 중 하나 골라서 시작
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
 - [Deep dive to DL](https://d2l.ai/index.html)
+- [boostcourse](https://www.boostcourse.org/opencourse)
 
 **Step 2**
-https://www.boostcourse.org/opencourse
+- 대회, 프로젝트 진행
 
 ---
 

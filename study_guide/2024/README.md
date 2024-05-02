@@ -9,7 +9,7 @@
 |스터디 명|링크|
 |:---:|:---:|
 |시계열 스터디|[Github Link](https://github.com/PNU-AID/Timeseries)|
-|자연어 처리 스피드 런|||
+
 
 ## 경진대회
 |대회 명|링크|

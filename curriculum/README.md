@@ -1,16 +1,9 @@
 # CURRICULUM
 
-**Step 0**
-- Python
-
-**Step 1**
-둘 중 하나 선택
 - [Understanding Deep Learning by Simon J.D. Prince](https://udlbook.github.io/udlbook/)
 - [Deep dive to DL](https://d2l.ai/index.html)
-
-
-**Step 2**
-- 대회, 프로젝트 진행
+- 혼자 공부하는 머신러닝 딥러닝
+- 밑바닥부터 시작하는 딥러닝
 
 ---
 
@@ -19,6 +12,7 @@
 **선형대수학**
 - [3blue1brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [혁펜하임](https://www.youtube.com/watch?v=7vV2SF8DyQE&list=PL_iJu012NOxdZDxoGsYidMf2_bERIQaP0)
+- [이상엽Math](https://youtube.com/playlist?list=PL127T2Zu76FuVMq1UQnZv9SG-GFIdZfLg&si=ATjzZwt_i7MwQYG-)
 
 **확률 / 통계**
 - [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
@@ -33,6 +27,7 @@
 
 **PyTorch 기초**
 - [이수안 컴퓨터 연구소](https://www.youtube.com/watch?v=k60oT_8lyFw)
+- [PyTorch tutorial](https://tutorials.pytorch.kr/)
 
 **Advanced**
 - [Deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
@@ -54,6 +49,7 @@
 
 ### RL
 - [HuggingFace RL tutorial](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- 바닥부터 배우는 강화학습
 
 ### Timeseires
 
@@ -98,3 +94,4 @@ https://nn.labml.ai/
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
 - [ExplainingAI](https://www.youtube.com/@Explaining-AI)
 - [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e/featured)
+- [팡요랩](https://www.youtube.com/@pang-yolab2520)

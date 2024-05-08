@@ -56,8 +56,8 @@
 
 ---
 
-## Boostcourse (Free lecture in Naver)
-(https://www.boostcourse.org/opencourse)
+## Boostcourse (Free lecture in NAVER)
+https://www.boostcourse.org/opencourse
 
 ## Paper Implementation
 https://nn.labml.ai/

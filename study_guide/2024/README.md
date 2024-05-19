@@ -9,6 +9,8 @@
 |스터디 명|링크|
 |:---:|:---:|
 |시계열 스터디|[Github Link](https://github.com/PNU-AID/Timeseries)|
+|컴퓨터비전 스터디|[Github Link](https://github.com/dhfpswlqkd/cv_study/tree/main)
+|텐서플로우 머신러닝 스터디|[Github Link](https://github.com/bluelemon61/TensorFlow-Study)
 
 
 ## 경진대회

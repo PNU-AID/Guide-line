@@ -10,6 +10,7 @@
 |:---:|:---:|
 |컴퓨터비전 스터디|[Github Link](https://github.com/dhfpswlqkd/cv_study/tree/main)
 |텐서플로우 머신러닝 스터디|[Github Link](https://github.com/bluelemon61/TensorFlow-Study)
+|인공지능 스피드런 스터디|[Github Link](https://github.com/JakeFRCSE/AI_SpeedLearn)
 
 
 ## 경진대회

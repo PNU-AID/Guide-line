@@ -95,3 +95,4 @@ https://nn.labml.ai/
 - [ExplainingAI](https://www.youtube.com/@Explaining-AI)
 - [이수안컴퓨터연구소](https://www.youtube.com/@user-ss5no9xw6e/featured)
 - [팡요랩](https://www.youtube.com/@pang-yolab2520)
+- [NeuralNine](https://www.youtube.com/@NeuralNine)

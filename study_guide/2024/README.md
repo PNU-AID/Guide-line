@@ -13,6 +13,7 @@
 |~~인공지능 스피드런 스터디~~|[Github Link](https://github.com/JakeFRCSE/AI_SpeedLearn)
 |~~인공지능 기초 스터디~~|[Github Link](https://github.com/YunseongJeong/study-machineLearning)
 |~~인공지능 스피드런 스터디2~~|[Github Link](https://github.com/boyamie/AIGroupStudy)
+|인공지능 논문 리딩/리뷰 스터디 | [Github Link](https://github.com/drmoon-1st/PNUAID_AI_PaperReview_Study/tree/main)
 
 
 ## 경진대회

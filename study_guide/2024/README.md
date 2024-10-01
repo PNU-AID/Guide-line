@@ -15,6 +15,7 @@
 |~~인공지능 스피드런 스터디2~~|[Github Link](https://github.com/boyamie/AIGroupStudy)
 |인공지능 논문 리딩/리뷰 스터디 | [Github Link](https://github.com/drmoon-1st/PNUAID_AI_PaperReview_Study/tree/main)
 |혼공머신 스터디 | [Github Link](https://github.com/Parkhaeil/ML-DL-study)
+|의료인공지능 스터디 | [Github Link](https://github.com/sanghojeong1219/123/blob/main/DEMO)
 
 
 ## 경진대회

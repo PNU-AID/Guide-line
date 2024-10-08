@@ -18,6 +18,8 @@
 |혼공머신 스터디 | [Github Link](https://github.com/Parkhaeil/ML-DL-study)
 |의료인공지능 스터디 | [Github Link](https://github.com/sanghojeong1219/123)
 |파이썬 초보 스터디 | [Github Link](https://github.com/yun110w/Python_DeepLearning_Study)
+|ME 챗봇 프로젝트 | [Github Link](https://github.com/JakeFRCSE/RAG_practice)
+|NLP 기초 스터디 | [Github Link](https://github.com/PROFOUNDIVE/NLP_basics_study)
 
 ## 경진대회
 |대회 명|링크|

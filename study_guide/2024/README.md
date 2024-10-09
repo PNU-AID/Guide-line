@@ -20,6 +20,7 @@
 |파이썬 초보 스터디 | [Github Link](https://github.com/yun110w/Python_DeepLearning_Study)
 |ME 챗봇 프로젝트 | [Github Link](https://github.com/JakeFRCSE/RAG_practice)
 |NLP 기초 스터디 | [Github Link](https://github.com/PROFOUNDIVE/NLP_basics_study)
+|컴퓨터 비전&딥러닝 기초 스터디 | [Github Link](https://github.com/Neibce/AID-CV-DL-STUDY)
 
 ## 경진대회
 |대회 명|링크|

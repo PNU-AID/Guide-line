@@ -21,6 +21,8 @@
 |ME 챗봇 프로젝트 | [Github Link](https://github.com/JakeFRCSE/RAG_practice)
 |NLP 기초 스터디 | [Github Link](https://github.com/PROFOUNDIVE/NLP_basics_study)
 |컴퓨터 비전&딥러닝 기초 스터디 | [Github Link](https://github.com/Neibce/AID-CV-DL-STUDY)
+|파이썬 코딩의 기술 스터디 | [Github Link](https://github.com/2024-PNU-SW-StudyGroup/Group-22)
+|NLP 프로젝트팀 | [Github Link](https://github.com/studyhard01/NLP_project)
 
 ## 경진대회
 |대회 명|링크|

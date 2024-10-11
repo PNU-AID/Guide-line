@@ -24,6 +24,7 @@
 |파이썬 코딩의 기술 스터디 | [Github Link](https://github.com/2024-PNU-SW-StudyGroup/Group-22)
 |NLP 프로젝트팀 | [Github Link](https://github.com/studyhard01/NLP_project)
 |강화학습 원리 스터디 | [Github Link](https://github.com/LightPotatoDev/RLStudy)
+|RL 스터디 | [Github Link](https://github.com/KimHaejoong1/4x4chessAI)
 
 ## 경진대회
 |대회 명|링크|

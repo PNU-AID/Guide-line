@@ -18,7 +18,7 @@
 |혼공머신 스터디 | [Github Link](https://github.com/Parkhaeil/ML-DL-study)
 |의료인공지능 스터디 | [Github Link](https://github.com/sanghojeong1219/123)
 |파이썬 초보 스터디 | [Github Link](https://github.com/yun110w/Python_DeepLearning_Study)
-|ME 챗봇 프로젝트 | [Github Link](https://github.com/JakeFRCSE/RAG_practice)
+|ME 챗봇 프로젝트 | [Github Link](https://github.com/myeolinmalchi/PNUME-chat)
 |NLP 기초 스터디 | [Github Link](https://github.com/PROFOUNDIVE/NLP_basics_study)
 |컴퓨터 비전&딥러닝 기초 스터디 | [Github Link](https://github.com/Neibce/AID-CV-DL-STUDY)
 |파이썬 코딩의 기술 스터디 | [Github Link](https://github.com/2024-PNU-SW-StudyGroup/Group-22)
